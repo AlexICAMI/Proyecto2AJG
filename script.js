@@ -24,6 +24,5 @@ function crearTodoList(){
         liDinamico.appendChild(labelDinamico);
 
         miListaTodo.appendChild(liDinamico);
-        //
     }
 }
